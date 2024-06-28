@@ -8,7 +8,7 @@ new HelloWorld();
 public HelloWorld()
 {
 JPanel panel1 = new JPanel();
-JLabel label1 = new JLabel("Hell in the World!");
+JLabel label1 = new JLabel("Hell in the World !!!");
 panel1.add(label1);
 this.add(panel1);
 this.setTitle("What's going on?");
